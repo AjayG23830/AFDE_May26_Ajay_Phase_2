@@ -1,0 +1,229 @@
+employee_name,department,issue_category,description,priority,status,created_at,resolved_at
+Pooja N,Admin,Network Connectivity,Office WiFi keeps dropping every few minutes.,Low,Resolved,2024-08-04 01:00:00,2024-08-04 06:00:00
+Raj K,Admin,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,Resolved,2024-08-17 18:00:00,2024-08-19 07:00:00
+Anjali D,Finance,Hardware Request,Requesting an external monitor / docking station / keyboard.,High,Resolved,2025-01-25 10:00:00,2025-01-26 01:00:00
+Shruti J,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,In Progress,2024-07-12 02:00:00,
+Shruti J,Engineering,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2025-01-30 09:00:00,2025-01-30 21:00:00
+Manoj G,Finance,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-04-17 21:00:00,
+Tanvi A,Marketing,Software Installation,Need MS Office 2021 installed on my workstation.,High,Resolved,2024-07-13 08:00:00,2024-07-16 19:00:00
+Priya S,Operations,NETWORK CONNECTIVITY,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-02-03 06:00:00,2024-02-06 08:00:00
+Aditya R,Finance,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-05-06 23:00:00,2024-05-10 00:00:00
+Rohit J,Finance,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2024-02-16 01:00:00,2024-02-16 17:00:00
+Kavya I,Legal,Password Reset,"Forgot my email password, need a reset.",High,Resolved,2024-10-10 00:00:00,2024-10-13 17:00:00
+Manoj G,Sales,Network Connectivity,Office WiFi keeps dropping every few minutes.,Low,Closed,2024-08-20 00:00:00,2024-08-23 22:00:00
+Anjali D,Sales,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-09-16 19:00:00,2024-09-17 22:00:00
+Suresh K,,Password Reset,"Forgot my email password, need a reset.",Medium,Open,2024-07-04 09:00:00,
+Arun P,HR,Password Reset,"Forgot my email password, need a reset.",Low,Closed,2024-09-29 04:00:00,2024-09-29 22:00:00
+Manoj G,Marketing,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2025-01-21 23:00:00,2025-01-25 17:00:00
+Shruti J,HR,Password Reset,"Forgot my email password, need a reset.",High,In Progress,2024-02-02 10:00:00,
+ Pooja N,Engineering,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,Open,2024-01-17 10:00:00,
+Divya S,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,In Progress,2024-08-30 13:00:00,
+Shruti J,Engineering,Password Reset,"Forgot my email password, need a reset.",Low,Resolved,2024-11-26 03:00:00,2024-11-26 12:00:00
+Sneha M,Legal,Laptop Issue,Laptop is running very slow / overheating / not booting.,High,Closed,2024-04-03 08:00:00,2024-04-05 21:00:00
+Meera M,Admin,Password Reset,"Forgot my email password, need a reset.",High,Open,2024-02-17 07:00:00,
+Aditya R,Engineering,Password Reset,"Forgot my email password, need a reset.",Medium,In Progress,2024-05-15 14:00:00,
+Divya S,Engineering,Software Installation,Need Adobe Reader installed on my workstation.,Medium,Closed,2024-10-04 01:00:00,2024-10-05 19:00:00
+Suresh K,HR,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Low,In Progress,2024-02-05 19:00:00,
+Sneha M,Engineering,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Open,2024-08-02 21:00:00,
+Manoj G,Marketing,Email Access,Outlook not syncing with corporate server.,Medium,In Progress,2024-03-08 21:00:00,
+ Arun P,HR,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,In Progress,2024-04-19 16:00:00,
+Pooja N,Admin,Software Installation,Need MS Office 2021 installed on my workstation.,Low,In Progress,2024-11-09 20:00:00,
+Lakshmi V,Finance,Email Access,Outlook not syncing with corporate server.,Low,Closed,2024-02-24 23:00:00,2024-02-27 23:00:00
+Naveen B,Sales,Password Reset,"Forgot my email password, need a reset.",Medium,Resolved,2024-05-08 01:00:00,2024-05-08 14:00:00
+Raj K,Sales,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,In Progress,2024-08-14 17:00:00,
+Arun P,Finance,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Open,2024-07-08 18:00:00,
+Lakshmi V,Engineering,Email Access,Outlook not syncing with corporate server.,Low,Open,2024-04-17 21:00:00,
+Meera M,Finance,Password Reset,"Forgot my email password, need a reset.",High,In Progress,2024-05-01 05:00:00,
+Raj K,IT,Hardware Request,Requesting an external monitor / docking station / keyboard.,High,Closed,2025-01-11 07:00:00,2025-01-12 19:00:00
+Priya S,Legal,Password Reset,"Forgot my email password, need a reset.",High,Open,2024-04-26 07:00:00,
+Manoj G,Sales,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,In Progress,2024-09-17 12:00:00,
+Raj K,Finance,Network Connectivity,Office WiFi keeps dropping every few minutes.,Critical,Resolved,2024-05-15 01:00:00,2024-05-15 16:00:00
+Naveen B,HR,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2024-10-22 06:00:00,2024-10-23 16:00:00
+Meera M,Marketing,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Open,2024-02-05 21:00:00,
+Lakshmi V,Operations,Software Installation,Need MS Office 2021 installed on my workstation.,High,Resolved,2024-05-31 17:00:00,2024-06-01 11:00:00
+Anjali D,Admin,Password Reset,"Forgot my email password, need a reset.",Medium,Closed,2024-06-04 09:00:00,2024-06-05 13:00:00
+Naveen B,Marketing,Laptop Issue,Laptop is running very slow / overheating / not booting.,High,Resolved,2025-01-11 05:00:00,2025-01-14 19:00:00
+Tanvi A,Marketing,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,Resolved,2024-04-25 06:00:00,2024-04-26 02:00:00
+Tanvi A,IT,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Low,Closed,2024-10-21 06:00:00,2024-10-25 03:00:00
+Vikram R,HR,NETWORK CONNECTIVITY,Office WiFi keeps dropping every few minutes.,Medium,In Progress,2024-04-22 05:00:00,
+Priya S,HR,Hardware Request,Requesting an external monitor / docking station / keyboard.,Critical,Resolved,2024-08-25 21:00:00,2024-08-28 18:00:00
+Rohan P,Admin,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-10-07 14:00:00,2024-10-08 12:00:00
+Pooja N,Admin,Network Connectivity,Office WiFi keeps dropping every few minutes.,High,In Progress,2024-05-02 08:00:00,
+Manoj G,HR,Laptop Issue,Laptop is running very slow / overheating / not booting.,Low,In Progress,2024-04-28 12:00:00,
+Kavya I,IT,Network Connectivity,Office WiFi keeps dropping every few minutes.,Low,Open,2024-08-03 12:00:00,
+Rohit J,Operations,HARDWARE REQUEST,Requesting an external monitor / docking station / keyboard.,Medium,Resolved,2024-07-18 13:00:00,2024-07-21 11:00:00
+Pooja N,,Network Connectivity,Office WiFi keeps dropping every few minutes.,High,Resolved,2024-06-21 21:00:00,2024-06-25 13:00:00
+Rohan P,,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-07-20 18:00:00,
+Kavya I,Engineering,Email Access,Outlook not syncing with corporate server.,High,Open,2024-06-16 06:00:00,
+Aditya R,IT,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Resolved,2024-02-11 15:00:00,2024-02-11 19:00:00
+Shruti J,Engineering,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Closed,2024-05-06 06:00:00,2024-05-06 10:00:00
+Sneha M,Sales,Email Access,Outlook not syncing with corporate server.,Low,Open,2024-03-26 19:00:00,
+Anjali D,Engineering,Email Access,Outlook not syncing with corporate server.,Critical,Resolved,2024-10-21 21:00:00,2024-10-23 23:00:00
+Rohit J,HR,Laptop Issue,Laptop is running very slow / overheating / not booting.,Critical,Open,2024-06-03 21:00:00,
+Rohit J,IT,Email Access,Outlook not syncing with corporate server.,High,Resolved,2024-02-05 16:00:00,2024-02-09 04:00:00
+Sneha M,Legal,Software Installation,Need Zoom installed on my workstation.,Low,In Progress,2024-08-10 05:00:00,
+Tanvi A,Legal,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2025-01-09 18:00:00,2025-01-11 06:00:00
+Manoj G,Legal,Software Installation,Need MS Office 2021 installed on my workstation.,High,Closed,2024-12-08 12:00:00,2024-12-10 09:00:00
+Divya S,Operations,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,In Progress,2024-11-01 22:00:00,
+Arun P,Admin,Software Installation,Need Visual Studio Code installed on my workstation.,Medium,Resolved,2024-12-19 15:00:00,2024-12-23 03:00:00
+Arun P,Marketing,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-10-24 11:00:00,2024-10-27 01:00:00
+Meera M,Sales,Email Access,Outlook not syncing with corporate server.,Medium,In Progress,2024-04-28 03:00:00,
+Meera M,Marketing,Network Connectivity,Office WiFi keeps dropping every few minutes.,Low,Open,2024-09-04 08:00:00,
+Tanvi A,Marketing,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-07-03 05:00:00,2024-07-04 21:00:00
+Priya S,Finance,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Open,2025-01-20 15:00:00,
+Divya S,Engineering,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Resolved,2024-09-01 03:00:00,2024-09-01 13:00:00
+Priya S,Sales,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Resolved,2024-05-07 03:00:00,2024-05-10 04:00:00
+Tanvi A,Legal,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Resolved,2024-06-01 18:00:00,2024-06-04 02:00:00
+Sneha M,Marketing,Software Installation,Need Postman installed on my workstation.,Medium,Open,2024-02-11 05:00:00,
+Raj K,Legal,Password Reset,"Forgot my email password, need a reset.",Low,Open,2024-04-28 09:00:00,
+Arun P,Marketing,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Closed,2024-10-05 07:00:00,2024-10-08 19:00:00
+Arun P,Sales,Password Reset,"Forgot my email password, need a reset.",Critical,Closed,2024-08-27 22:00:00,2024-08-29 14:00:00
+Meera M,Engineering,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,In Progress,2025-01-11 10:00:00,
+Rohit J,Sales,EMAIL ACCESS,Outlook not syncing with corporate server.,Medium,Open,2025-01-25 05:00:00,
+Manoj G,Legal,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,In Progress,2024-08-28 11:00:00,
+Anjali D,Sales,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Resolved,2024-07-24 17:00:00,2024-07-24 23:00:00
+Sneha M,Admin,Laptop Issue,Laptop is running very slow / overheating / not booting.,Low,In Progress,2024-01-01 21:00:00,
+Karthik T,Legal,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,In Progress,2025-01-24 01:00:00,
+Lakshmi V,,Password Reset,"Forgot my email password, need a reset.",Medium,Open,2024-11-18 19:00:00,
+ Meera M,Marketing,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-02-28 14:00:00,
+Lakshmi V,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Open,2024-05-04 14:00:00,
+Tanvi A,HR,Email Access,Outlook not syncing with corporate server.,Low,Open,2024-07-31 10:00:00,
+Lakshmi V,Legal,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Closed,2024-08-16 17:00:00,2024-08-19 08:00:00
+Rohan P,Marketing,Software Installation,Need Zoom installed on my workstation.,Medium,Resolved,2024-04-29 13:00:00,2024-04-29 20:00:00
+Aditya R,Finance,Software Installation,Need Zoom installed on my workstation.,High,Resolved,2024-01-19 04:00:00,2024-01-21 22:00:00
+Rohan P,Engineering,Email Access,Outlook not syncing with corporate server.,Medium,Open,2024-07-28 20:00:00,
+Manoj G,HR,Password Reset,"Forgot my email password, need a reset.",Low,Resolved,2024-12-11 17:00:00,2024-12-13 19:00:00
+ Meera M,Sales,Software Installation,Need Zoom installed on my workstation.,High,Closed,2025-01-17 02:00:00,2025-01-19 11:00:00
+Sneha M,Engineering,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Resolved,2024-01-29 09:00:00,2024-01-31 08:00:00
+Rohit J,Finance,Software Installation,Need Zoom installed on my workstation.,Medium,Open,2024-07-14 19:00:00,
+Vikram R,Legal,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Closed,2024-01-05 14:00:00,2024-01-07 04:00:00
+Shruti J,IT,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Open,2024-08-21 09:00:00,
+Sneha M,Sales,Password Reset,"Forgot my email password, need a reset.",Critical,Closed,2024-05-31 00:00:00,2024-06-03 14:00:00
+Priya S,Sales,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Resolved,2024-04-27 19:00:00,2024-04-29 18:00:00
+Vikram R,Engineering,Password Reset,"Forgot my email password, need a reset.",High,Resolved,2024-08-13 01:00:00,2024-08-16 05:00:00
+Naveen B,Finance,Software Installation,Need Slack installed on my workstation.,High,Open,2024-07-06 16:00:00,
+Manoj G,Sales,Email Access,Outlook not syncing with corporate server.,Critical,Closed,2024-06-22 03:00:00,2024-06-24 16:00:00
+Aditya R,Operations,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Low,Closed,2024-07-21 00:00:00,2024-07-22 11:00:00
+Manoj G,Operations,Email Access,Outlook not syncing with corporate server.,Low,In Progress,2024-04-29 15:00:00,
+Naveen B,HR,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Closed,2024-08-25 22:00:00,2024-08-27 14:00:00
+Priya S,HR,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Open,2024-10-02 04:00:00,
+Meera M,Finance,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Resolved,2024-12-01 03:00:00,2024-12-03 19:00:00
+Priya S,Legal,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-07-04 03:00:00,2024-07-07 20:00:00
+Priya S,HR,Software Installation,Need Slack installed on my workstation.,Medium,Closed,2024-08-20 02:00:00,2024-08-23 16:00:00
+Raj K,Finance,Password Reset,"Forgot my email password, need a reset.",High,Resolved,2024-04-15 02:00:00,2024-04-18 02:00:00
+Pooja N,Engineering,Password Reset,"Forgot my email password, need a reset.",Medium,Closed,2024-03-15 04:00:00,2024-03-18 03:00:00
+ Vikram R,Marketing,Software Installation,Need MS Office 2021 installed on my workstation.,High,Open,2024-01-09 05:00:00,
+Sneha M,Operations,Software Installation,Need Adobe Reader installed on my workstation.,Low,Resolved,2024-02-25 14:00:00,2024-02-28 08:00:00
+Suresh K,Engineering,Password Reset,"Forgot my email password, need a reset.",Critical,Open,2024-09-02 12:00:00,
+Rohan P,Finance,Laptop Issue,Laptop is running very slow / overheating / not booting.,High,In Progress,2024-05-20 19:00:00,
+Aditya R,Legal,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-08-08 03:00:00,2024-08-11 22:00:00
+Meera M,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Resolved,2024-07-30 10:00:00,2024-08-01 22:00:00
+Kavya I,Finance,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Open,2024-08-30 02:00:00,
+Sneha M,Finance,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Open,2024-10-27 17:00:00,
+Shruti J,IT,Email Access,Outlook not syncing with corporate server.,Medium,Open,2025-01-04 01:00:00,
+Suresh K,Marketing,Software Installation,Need Adobe Reader installed on my workstation.,High,In Progress,2024-06-28 17:00:00,
+Kavya I,,Software Installation,Need Visual Studio Code installed on my workstation.,Low,In Progress,2024-12-02 22:00:00,
+Naveen B,Finance,Software Installation,Need Slack installed on my workstation.,Low,In Progress,2024-07-24 02:00:00,
+Arun P,IT,Password Reset,"Forgot my email password, need a reset.",High,Closed,2024-03-21 11:00:00,2024-03-23 04:00:00
+Tanvi A,Finance,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Closed,2024-01-26 21:00:00,2024-01-27 09:00:00
+Rohan P,Admin,Software Installation,Need Adobe Reader installed on my workstation.,Medium,In Progress,2024-08-08 03:00:00,
+ Lakshmi V,,Software Installation,Need Adobe Reader installed on my workstation.,High,Resolved,2024-06-03 06:00:00,2024-06-04 01:00:00
+Raj K,Finance,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,In Progress,2024-12-26 07:00:00,
+Shruti J,Engineering,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2024-08-23 02:00:00,2024-08-24 20:00:00
+Kavya I,Operations,Email Access,Outlook not syncing with corporate server.,Medium,In Progress,2024-11-12 14:00:00,
+Kavya I,IT,Hardware Request,Requesting an external monitor / docking station / keyboard.,High,In Progress,2024-07-21 09:00:00,
+Anjali D,Admin,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,In Progress,2025-02-01 11:00:00,
+Pooja N,Finance,Software Installation,Need Visual Studio Code installed on my workstation.,High,Closed,2025-01-24 20:00:00,2025-01-25 07:00:00
+Rohan P,Legal,Password Reset,"Forgot my email password, need a reset.",Critical,Resolved,2024-10-16 20:00:00,2024-10-20 07:00:00
+Naveen B,Legal,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-05-20 18:00:00,2024-05-21 03:00:00
+Priya S,HR,Software Installation,Need Zoom installed on my workstation.,Medium,In Progress,2024-02-16 19:00:00,
+Meera M,Engineering,Email Access,Outlook not syncing with corporate server.,Medium,In Progress,2024-10-19 20:00:00,
+Vikram R,Operations,Password Reset,"Forgot my email password, need a reset.",Medium,In Progress,2024-02-13 16:00:00,
+Rohan P,Finance,Network Connectivity,Office WiFi keeps dropping every few minutes.,Low,Open,2024-05-24 12:00:00,
+Priya S,HR,Laptop Issue,Laptop is running very slow / overheating / not booting.,High,Resolved,2024-10-12 21:00:00,2024-10-15 00:00:00
+Vikram R,Finance,Software Installation,Need Adobe Reader installed on my workstation.,Medium,Closed,2024-06-07 20:00:00,2024-06-11 15:00:00
+Arun P,Operations,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-12-09 22:00:00,2024-12-13 22:00:00
+Kavya I,Sales,NETWORK CONNECTIVITY,Office WiFi keeps dropping every few minutes.,Critical,Open,2024-04-19 10:00:00,
+Vikram R,HR,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-10-03 23:00:00,
+Tanvi A,Finance,Email Access,Outlook not syncing with corporate server.,Low,In Progress,2024-12-20 19:00:00,
+Priya S,Marketing,Hardware Request,Requesting an external monitor / docking station / keyboard.,Critical,Resolved,2024-11-08 09:00:00,2024-11-10 20:00:00
+Divya S,Legal,Password Reset,"Forgot my email password, need a reset.",Medium,In Progress,2024-05-24 12:00:00,
+Karthik T,Sales,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-09-03 11:00:00,2024-09-06 11:00:00
+Sneha M,Sales,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Resolved,2024-09-19 04:00:00,2024-09-21 13:00:00
+Rohan P,IT,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Critical,Open,2024-09-14 11:00:00,
+ Pooja N,Operations,Password Reset,"Forgot my email password, need a reset.",Medium,Open,2024-03-11 01:00:00,
+Divya S,,SOFTWARE INSTALLATION,Need Visual Studio Code installed on my workstation.,Critical,In Progress,2024-04-20 04:00:00,
+Kavya I,Sales,Email Access,Outlook not syncing with corporate server.,Critical,Resolved,2024-05-02 13:00:00,2024-05-06 00:00:00
+Divya S,Admin,HARDWARE REQUEST,Requesting an external monitor / docking station / keyboard.,High,Open,2025-01-02 04:00:00,
+Rohit J,HR,Software Installation,Need Visual Studio Code installed on my workstation.,Medium,Resolved,2024-07-03 02:00:00,2024-07-05 23:00:00
+ Meera M,Engineering,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-07-10 08:00:00,2024-07-10 12:00:00
+Sneha M,Operations,Software Installation,Need Postman installed on my workstation.,High,In Progress,2024-06-29 17:00:00,
+Rohan P,Finance,Software Installation,Need Postman installed on my workstation.,High,Open,2024-02-02 22:00:00,
+ Karthik T,Engineering,Hardware Request,Requesting an external monitor / docking station / keyboard.,Critical,Open,2024-06-07 16:00:00,
+ Manoj G,Sales,Laptop Issue,Laptop is running very slow / overheating / not booting.,Critical,Resolved,2025-02-03 01:00:00,2025-02-06 14:00:00
+Aditya R,IT,Software Installation,Need Zoom installed on my workstation.,Medium,Resolved,2024-04-05 15:00:00,2024-04-09 09:00:00
+Manoj G,HR,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Resolved,2024-04-02 17:00:00,2024-04-04 08:00:00
+Lakshmi V,Finance,Software Installation,Need Slack installed on my workstation.,Low,In Progress,2024-06-28 14:00:00,
+Tanvi A,Engineering,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Closed,2024-11-22 12:00:00,2024-11-24 12:00:00
+Raj K,Legal,Email Access,Outlook not syncing with corporate server.,High,Resolved,2024-02-04 07:00:00,2024-02-07 19:00:00
+Tanvi A,Operations,Software Installation,Need MS Office 2021 installed on my workstation.,Medium,Closed,2025-01-25 02:00:00,2025-01-28 05:00:00
+Manoj G,Finance,Password Reset,"Forgot my email password, need a reset.",Medium,In Progress,2024-07-17 17:00:00,
+Rohan P,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,In Progress,2024-03-10 02:00:00,
+Arun P,Operations,Laptop Issue,Laptop is running very slow / overheating / not booting.,Low,Resolved,2024-12-29 02:00:00,2025-01-01 02:00:00
+Anjali D,Finance,Email Access,Outlook not syncing with corporate server.,Medium,In Progress,2024-09-17 07:00:00,
+Pooja N,Admin,VPN ISSUE,Cannot connect to VPN. Authentication keeps failing.,Critical,Resolved,2024-08-27 17:00:00,2024-08-28 11:00:00
+Aditya R,Admin,Email Access,Outlook not syncing with corporate server.,High,Open,2024-07-28 18:00:00,
+Arun P,Operations,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Low,In Progress,2025-02-03 17:00:00,
+Vikram R,Engineering,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-09-22 04:00:00,2024-09-23 20:00:00
+Pooja N,Sales,Password Reset,"Forgot my email password, need a reset.",Low,Closed,2024-05-08 06:00:00,2024-05-11 17:00:00
+Tanvi A,Finance,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2024-10-24 04:00:00,2024-10-25 03:00:00
+Naveen B,Engineering,Network Connectivity,Office WiFi keeps dropping every few minutes.,High,Closed,2024-11-24 18:00:00,2024-11-26 05:00:00
+Tanvi A,Admin,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-06-03 15:00:00,2024-06-05 00:00:00
+Rohan P,Legal,Hardware Request,Requesting an external monitor / docking station / keyboard.,High,In Progress,2024-08-25 06:00:00,
+Naveen B,IT,Software Installation,Need Postman installed on my workstation.,High,In Progress,2024-07-08 16:00:00,
+Sneha M,HR,Email Access,Outlook not syncing with corporate server.,Low,Open,2024-07-15 19:00:00,
+Anjali D,Operations,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,Closed,2024-03-22 15:00:00,2024-03-25 10:00:00
+Raj K,Legal,Laptop Issue,Laptop is running very slow / overheating / not booting.,Medium,In Progress,2024-04-20 18:00:00,
+Divya S,HR,SOFTWARE INSTALLATION,Need Adobe Reader installed on my workstation.,Low,In Progress,2024-05-15 23:00:00,
+Priya S,Admin,Software Installation,Need Zoom installed on my workstation.,High,In Progress,2024-07-16 16:00:00,
+Tanvi A,HR,Laptop Issue,Laptop is running very slow / overheating / not booting.,High,In Progress,2024-06-22 17:00:00,
+Aditya R,Finance,Software Installation,Need Adobe Reader installed on my workstation.,High,Open,2024-08-30 16:00:00,
+Vikram R,Finance,Laptop Issue,Laptop is running very slow / overheating / not booting.,Low,Closed,2024-11-11 23:00:00,2024-11-13 15:00:00
+Meera M,Legal,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-07-07 10:00:00,2024-07-11 02:00:00
+Raj K,Marketing,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Critical,Resolved,2024-10-25 15:00:00,2024-10-26 14:00:00
+Aditya R,Engineering,Email Access,Outlook not syncing with corporate server.,High,Resolved,2024-12-24 03:00:00,2024-12-25 05:00:00
+Kavya I,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,In Progress,2025-01-11 23:00:00,
+Meera M,Admin,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Resolved,2024-03-29 14:00:00,2024-04-01 12:00:00
+Manoj G,Marketing,Software Installation,Need Postman installed on my workstation.,Medium,Resolved,2024-06-01 07:00:00,2024-06-02 23:00:00
+Divya S,Sales,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-10-20 21:00:00,
+Shruti J,Sales,Email Access,Outlook not syncing with corporate server.,Medium,Closed,2024-12-31 02:00:00,2025-01-02 00:00:00
+Karthik T,Admin,Laptop Issue,Laptop is running very slow / overheating / not booting.,High,Resolved,2024-03-11 03:00:00,2024-03-14 11:00:00
+Suresh K,HR,Network Connectivity,Office WiFi keeps dropping every few minutes.,Medium,Open,2025-01-02 15:00:00,
+Meera M,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,High,Open,2024-04-12 09:00:00,
+Rohit J,Engineering,Software Installation,Need MS Office 2021 installed on my workstation.,Medium,Open,2024-03-30 13:00:00,
+Aditya R,Sales,Hardware Request,Requesting an external monitor / docking station / keyboard.,Low,Closed,2024-01-05 09:00:00,2024-01-08 11:00:00
+Lakshmi V,Admin,Email Access,Outlook not syncing with corporate server.,Low,Closed,2024-03-09 16:00:00,2024-03-12 05:00:00
+Rohan P,Engineering,Software Installation,Need Visual Studio Code installed on my workstation.,Low,Open,2024-05-31 18:00:00,
+Aditya R,HR,Network Connectivity,Office WiFi keeps dropping every few minutes.,High,Open,2024-02-18 05:00:00,
+Raj K,Sales,Password Reset,"Forgot my email password, need a reset.",Medium,Closed,2024-06-03 18:00:00,2024-06-07 16:00:00
+Pooja N,Sales,Email Access,Outlook not syncing with corporate server.,Low,Resolved,2024-12-17 16:00:00,2024-12-21 12:00:00
+Lakshmi V,Finance,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-08-20 23:00:00,
+Divya S,Marketing,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2024-12-14 19:00:00,2024-12-15 07:00:00
+Arun P,Admin,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2024-04-13 18:00:00,2024-04-16 16:00:00
+Rohan P,Legal,Password Reset,"Forgot my email password, need a reset.",Low,Closed,2024-09-18 14:00:00,2024-09-18 23:00:00
+Rohit J,Sales,Laptop Issue,Laptop is running very slow / overheating / not booting.,Low,In Progress,2024-07-21 08:00:00,
+ Arun P,HR,Hardware Request,Requesting an external monitor / docking station / keyboard.,Low,Open,2024-01-31 02:00:00,
+Vikram R,IT,Laptop Issue,Laptop is running very slow / overheating / not booting.,Low,In Progress,2024-07-14 14:00:00,
+Arun P,Admin,Hardware Request,Requesting an external monitor / docking station / keyboard.,Critical,In Progress,2024-06-27 03:00:00,
+Vikram R,Engineering,Password Reset,"Forgot my email password, need a reset.",Critical,In Progress,2024-06-01 14:00:00,
+Aditya R,Operations,Network Connectivity,Office WiFi keeps dropping every few minutes.,High,In Progress,2024-04-06 23:00:00,
+Kavya I,Engineering,Hardware Request,Requesting an external monitor / docking station / keyboard.,Low,Closed,2024-02-04 03:00:00,2024-02-07 09:00:00
+Priya S,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,Resolved,2024-04-21 01:00:00,2024-04-21 20:00:00
+Pooja N,Admin,Network Connectivity,Office WiFi keeps dropping every few minutes.,Low,Resolved,2024-08-04 01:00:00,2024-08-04 06:00:00
+Raj K,Admin,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,Resolved,2024-08-17 18:00:00,2024-08-19 07:00:00
+Anjali D,Finance,Hardware Request,Requesting an external monitor / docking station / keyboard.,High,Resolved,2025-01-25 10:00:00,2025-01-26 01:00:00
+Shruti J,Legal,VPN Issue,Cannot connect to VPN. Authentication keeps failing.,Medium,In Progress,2024-07-12 02:00:00,
+Shruti J,Engineering,Email Access,Outlook not syncing with corporate server.,Medium,Resolved,2025-01-30 09:00:00,2025-01-30 21:00:00
+Manoj G,Finance,Hardware Request,Requesting an external monitor / docking station / keyboard.,Medium,Open,2024-04-17 21:00:00,
+Tanvi A,Marketing,Software Installation,Need MS Office 2021 installed on my workstation.,High,Resolved,2024-07-13 08:00:00,2024-07-16 19:00:00
+Priya S,Operations,NETWORK CONNECTIVITY,Office WiFi keeps dropping every few minutes.,Medium,Resolved,2024-02-03 06:00:00,2024-02-06 08:00:00

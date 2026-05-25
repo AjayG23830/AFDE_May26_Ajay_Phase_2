@@ -1,0 +1,261 @@
+complaint_number,title,category,priority,status,agent_name,created_at,sla_deadline,resolved_at
+CMP-00001,Cannot login to my account,ACCOUNT ISSUES,Low,Resolved,Agent_D,2024-04-24 04:00:00,2024-04-27 04:00:00,2024-04-30 19:00:00
+CMP-00002,Incorrect charge of ₹3115 on my invoice,Billing Issues,Medium,Resolved,Agent_G,2024-04-22 14:00:00,2024-04-24 14:00:00,2024-04-22 15:00:00
+CMP-00003,App keeps crashing when I try to download,Technical Problems,Low,Resolved,Agent_E,2024-01-23 23:00:00,2024-01-26 23:00:00,2024-01-24 15:00:00
+CMP-00004,Service outage in my area since last week,Service Disruption,High,Open,,2024-04-26 09:00:00,2024-04-27 09:00:00,
+CMP-00005,Defective keyboard received in last order,Product Defects,Medium,Assigned,Agent_B,2024-11-07 20:00:00,2024-11-09 20:00:00,
+CMP-00006,Order #18675 delayed by 5 days,Delivery Delays,Medium,In Progress,Agent_A,2024-04-27 01:00:00,2024-04-29 01:00:00,
+CMP-00007,Service outage in my area since last week,Service Disruption,High,In Progress,Agent_H,2024-03-14 08:00:00,2024-03-15 08:00:00,
+CMP-00008,Defective monitor received in last order,Product Defects,Medium,Closed,Agent_H,2024-02-16 01:00:00,2024-02-18 01:00:00,2024-02-18 21:00:00
+CMP-00009,Order #24621 delayed by 6 days,Delivery Delays,High,Open,,2025-01-04 03:00:00,2025-01-05 03:00:00,
+CMP-00010,Cannot login to my account,Account Issues,Medium,Pending Customer Response,Agent_C,2024-09-16 03:00:00,2024-09-18 03:00:00,
+CMP-00011,Order #17592 delayed by 5 days,Delivery Delays,Critical,Escalated,Agent_H,2024-01-10 03:00:00,2024-01-10 07:00:00,
+CMP-00012,App keeps crashing when I try to download,Technical Problems,High,Closed,Agent_C,2024-03-06 21:00:00,2024-03-07 21:00:00,2024-03-07 15:00:00
+CMP-00013,Cannot login to my account,Account Issues,Medium,In Progress,Agent_F,2024-08-12 16:00:00,2024-08-14 16:00:00,
+CMP-00014,Service outage in my area since last week,Service Disruption,Low,Resolved,Agent_A,2024-04-27 02:00:00,2024-04-30 02:00:00,2024-05-01 21:00:00
+CMP-00015,Order #56438 delayed by 8 days,Delivery Delays,Medium,Assigned,Agent_H,2024-07-27 06:00:00,2024-07-29 06:00:00,
+CMP-00016,Cannot login to my account,Account Issues,Critical,Open,,2024-07-25 23:00:00,2024-07-26 03:00:00,
+CMP-00017,App keeps crashing when I try to login,Technical Problems,Medium,Closed,Agent_H,2024-10-08 03:00:00,2024-10-10 03:00:00,2024-10-09 14:00:00
+CMP-00018,Incorrect charge of ₹7954 on my invoice,Billing Issues,Low,Open,,2024-07-18 08:00:00,2024-07-21 08:00:00,
+CMP-00019,Incorrect charge of ₹8311 on my invoice,Billing Issues,Medium,Pending Customer Response,Agent_F,2024-01-30 01:00:00,2024-02-01 01:00:00,
+CMP-00020,Order #84085 delayed by 10 days,Delivery Delays,Low,Resolved,Agent_G,2024-03-02 18:00:00,2024-03-05 18:00:00,2024-03-03 00:00:00
+CMP-00021,Defective laptop received in last order,Product Defects,Medium,In Progress,Agent_E,2024-08-22 10:00:00,2024-08-24 10:00:00,
+CMP-00022,Defective headphones received in last order,Product Defects,Low,In Progress,Agent_B,2024-05-05 11:00:00,2024-05-08 11:00:00,
+CMP-00023,Order #82512 delayed by 4 days,Delivery Delays,Low,Resolved,Agent_E,2024-12-05 03:00:00,2024-12-08 03:00:00,2024-12-08 21:00:00
+CMP-00024,Service outage in my area since last week,Service Disruption,High,Resolved,Agent_H,2024-05-08 01:00:00,2024-05-09 01:00:00,2024-05-08 15:00:00
+CMP-00025,App keeps crashing when I try to pay,Technical Problems,Medium,In Progress,Agent_A,2024-02-27 02:00:00,2024-02-29 02:00:00,
+CMP-00026,Defective router received in last order,Product Defects,High,Resolved,Agent_A,2024-07-02 06:00:00,2024-07-03 06:00:00,2024-07-06 20:00:00
+CMP-00027,Service outage in my area since last week,Service Disruption,Critical,Resolved,Agent_G,2024-01-13 05:00:00,2024-01-13 09:00:00,2024-01-15 04:00:00
+CMP-00028,App keeps crashing when I try to login,Technical Problems,Medium,Resolved,Agent_H,2024-06-28 09:00:00,2024-06-30 09:00:00,2024-07-01 15:00:00
+CMP-00029,Defective headphones received in last order,Product Defects,High,In Progress,Agent_F,2024-01-15 03:00:00,2024-01-16 03:00:00,
+CMP-00030,Defective laptop received in last order,Product Defects,Medium,Closed,Agent_B,2024-07-16 18:00:00,2024-07-18 18:00:00,2024-07-16 21:00:00
+CMP-00031,Defective keyboard received in last order,Product Defects,Medium,Closed,Agent_F,2024-11-15 10:00:00,2024-11-17 10:00:00,2024-11-18 02:00:00
+CMP-00032,Service outage in my area since last week,Service Disruption,Medium,Closed,Agent_C,2024-11-11 18:00:00,2024-11-13 18:00:00,2024-11-13 06:00:00
+CMP-00033,App keeps crashing when I try to download,Technical Problems,Medium,Assigned,Agent_H,2025-01-11 05:00:00,2025-01-13 05:00:00,
+CMP-00034,Service outage in my area since last week,Service Disruption,High,Assigned,Agent_D,2024-03-16 00:00:00,2024-03-17 00:00:00,
+CMP-00035,Order #33053 delayed by 14 days,Delivery Delays,Low,Resolved,Agent_H,2024-07-23 07:00:00,2024-07-26 07:00:00,2024-07-23 08:00:00
+CMP-00036,Service outage in my area since last week,Service Disruption,Critical,Open,,2024-03-09 14:00:00,2024-03-09 18:00:00,
+CMP-00037,Order #78327 delayed by 9 days,Delivery Delays,Medium,Closed,Agent_H,2024-03-22 23:00:00,2024-03-24 23:00:00,2024-03-27 09:00:00
+CMP-00038,Defective monitor received in last order,Product Defects,Medium,In Progress,Agent_B,2024-03-11 04:00:00,2024-03-13 04:00:00,
+CMP-00039,Incorrect charge of ₹6732 on my invoice,Billing Issues,Medium,In Progress,Agent_A,2025-01-26 18:00:00,2025-01-28 18:00:00,
+CMP-00040,App keeps crashing when I try to upload,Technical Problems,Medium,Resolved,Agent_D,2024-09-06 07:00:00,2024-09-08 07:00:00,2024-09-07 15:00:00
+CMP-00041,Service outage in my area since last week,Service Disruption,Critical,Pending Customer Response,Agent_G,2024-10-30 18:00:00,2024-10-30 22:00:00,
+CMP-00042,Service outage in my area since last week,Service Disruption,Medium,In Progress,Agent_G,2024-05-22 13:00:00,2024-05-24 13:00:00,
+CMP-00043,Cannot login to my account,Account Issues,Low,Closed,Agent_A,2025-01-21 00:00:00,2025-01-24 00:00:00,2025-01-25 02:00:00
+CMP-00044,App keeps crashing when I try to upload,TECHNICAL PROBLEMS,High,Resolved,Agent_C,2024-11-06 19:00:00,2024-11-07 19:00:00,2024-11-11 15:00:00
+CMP-00045,App keeps crashing when I try to download,Technical Problems,Medium,Resolved,Agent_B,2024-10-30 22:00:00,2024-11-01 22:00:00,2024-11-03 06:00:00
+CMP-00046,App keeps crashing when I try to share,Technical Problems,High,Open,,2024-11-27 10:00:00,2024-11-28 10:00:00,
+CMP-00047,Cannot login to my account,Account Issues,Low,Assigned,Agent_E,2024-11-11 17:00:00,2024-11-14 17:00:00,
+CMP-00048,Defective router received in last order,Product Defects,High,Assigned,Agent_H,2024-10-18 19:00:00,2024-10-19 19:00:00,
+CMP-00049,Defective headphones received in last order,Product Defects,Medium,Resolved,Agent_E,2024-10-11 00:00:00,2024-10-13 00:00:00,2024-10-11 13:00:00
+CMP-00050,App keeps crashing when I try to upload,Technical Problems,Medium,Open,,2024-05-30 07:00:00,2024-06-01 07:00:00,
+CMP-00051,Cannot login to my account,Account Issues,Medium,In Progress,Agent_H,2024-05-18 09:00:00,2024-05-20 09:00:00,
+CMP-00052,Service outage in my area since last week,Service Disruption,Low,Resolved,Agent_E,2025-01-05 18:00:00,2025-01-08 18:00:00,2025-01-11 14:00:00
+CMP-00053,Service outage in my area since last week,Service Disruption,Medium,Closed,Agent_E,2024-12-23 04:00:00,2024-12-25 04:00:00,2024-12-24 12:00:00
+CMP-00054,Defective keyboard received in last order,Product Defects,Critical,In Progress,Agent_B,2024-07-24 15:00:00,2024-07-24 19:00:00,
+CMP-00055,Service outage in my area since last week,Service Disruption,Low,Resolved,Agent_D,2025-02-01 16:00:00,2025-02-04 16:00:00,2025-02-04 01:00:00
+CMP-00056,Poor response from support team,Customer Service,Medium,Assigned,Agent_B,2024-03-21 07:00:00,2024-03-23 07:00:00,
+CMP-00057,Incorrect charge of ₹3741 on my invoice,Billing Issues,Medium,Resolved,Agent_H,2024-02-06 21:00:00,2024-02-08 21:00:00,2024-02-07 14:00:00
+CMP-00058,Incorrect charge of ₹7094 on my invoice,Billing Issues,Low,Resolved,Agent_E,2024-08-12 03:00:00,2024-08-15 03:00:00,2024-08-13 18:00:00
+CMP-00059,Cannot login to my account,Account Issues,Medium,Assigned,Agent_B,2024-04-27 21:00:00,2024-04-29 21:00:00,
+CMP-00060,App keeps crashing when I try to pay,Technical Problems,Medium,In Progress,Agent_E,2024-04-02 18:00:00,2024-04-04 18:00:00,
+CMP-00061,Service outage in my area since last week,Service Disruption,Medium,Resolved,Agent_E,2024-12-05 12:00:00,2024-12-07 12:00:00,2024-12-10 11:00:00
+CMP-00062,Order #77952 delayed by 7 days,Delivery Delays,High,Open,,2024-10-04 14:00:00,2024-10-05 14:00:00,
+CMP-00063,Incorrect charge of ₹8441 on my invoice,Billing Issues,Medium,Pending Customer Response,Agent_E,2024-08-12 22:00:00,2024-08-14 22:00:00,
+CMP-00064,Incorrect charge of ₹2424 on my invoice,Billing Issues,Medium,Open,,2024-02-28 14:00:00,2024-03-01 14:00:00,
+CMP-00065,App keeps crashing when I try to pay,Technical Problems,Medium,Escalated,Agent_G,2024-04-07 19:00:00,2024-04-09 19:00:00,
+CMP-00066,Order #80592 delayed by 9 days,Delivery Delays,Medium,Open,,2025-01-06 09:00:00,2025-01-08 09:00:00,
+CMP-00067,App keeps crashing when I try to share,Technical Problems,Critical,Resolved,Agent_D,2024-10-19 12:00:00,2024-10-19 16:00:00,2024-10-19 16:00:00
+CMP-00068,Service outage in my area since last week,Service Disruption,,Open,,2024-09-14 18:00:00,2024-09-16 18:00:00,
+CMP-00069,Poor response from support team,Customer Service,High,Assigned,Agent_H,2025-02-04 08:00:00,2025-02-05 08:00:00,
+CMP-00070,App keeps crashing when I try to upload,Technical Problems,Critical,Escalated,Agent_H,2024-10-04 01:00:00,2024-10-04 05:00:00,
+CMP-00071,Cannot login to my account,Account Issues,High,In Progress,Agent_E,2024-01-15 01:00:00,2024-01-16 01:00:00,
+CMP-00072,Cannot login to my account,Account Issues,High,Assigned,Agent_B,2024-11-08 12:00:00,2024-11-09 12:00:00,
+CMP-00073,Incorrect charge of ₹3088 on my invoice,Billing Issues,High,In Progress,Agent_E,2024-12-12 17:00:00,2024-12-13 17:00:00,
+CMP-00074,App keeps crashing when I try to download,Technical Problems,High,,Agent_G,2024-09-04 03:00:00,2024-09-05 03:00:00,
+CMP-00075,Poor response from support team,Customer Service,High,Assigned,Agent_A,2024-11-06 23:00:00,2024-11-07 23:00:00,
+CMP-00076,Cannot login to my account,Account Issues,High,Resolved,Agent_C,2024-11-17 03:00:00,2024-11-18 03:00:00,2024-11-21 14:00:00
+CMP-00077,Defective keyboard received in last order,Product Defects,High,Assigned,Agent_C,2024-10-03 11:00:00,2024-10-04 11:00:00,
+CMP-00078,Defective headphones received in last order,Product Defects,High,In Progress,Agent_B,2024-08-27 02:00:00,2024-08-28 02:00:00,
+CMP-00079,Incorrect charge of ₹2275 on my invoice,Billing Issues,Medium,Resolved,Agent_E,2024-10-26 12:00:00,2024-10-28 12:00:00,2024-10-30 12:00:00
+CMP-00080,Service outage in my area since last week,Service Disruption,High,Escalated,Agent_H,2024-12-24 09:00:00,2024-12-25 09:00:00,
+CMP-00081,Order #74139 delayed by 11 days,Delivery Delays,Low,In Progress,Agent_G,2024-10-27 23:00:00,2024-10-30 23:00:00,
+CMP-00082,Defective keyboard received in last order,Product Defects,Medium,In Progress,Agent_D,2024-07-04 03:00:00,2024-07-06 03:00:00,
+CMP-00083,Poor response from support team,Customer Service,Medium,Resolved,Agent_A,2024-01-26 10:00:00,2024-01-28 10:00:00,2024-01-26 19:00:00
+CMP-00084,Poor response from support team,CUSTOMER SERVICE,,Closed,Agent_A,2024-05-21 04:00:00,2024-05-24 04:00:00,2024-05-27 02:00:00
+CMP-00085,Service outage in my area since last week,Service Disruption,Medium,Open,,2024-05-15 01:00:00,2024-05-17 01:00:00,
+CMP-00086,Order #94323 delayed by 2 days,Delivery Delays,Low,Pending Customer Response,Agent_A,2025-01-07 21:00:00,2025-01-10 21:00:00,
+CMP-00087,Cannot login to my account,Account Issues,Low,Resolved,Agent_H,2024-02-07 02:00:00,2024-02-10 02:00:00,2024-02-07 21:00:00
+CMP-00088,Order #66370 delayed by 9 days,Delivery Delays,Medium,In Progress,Agent_G,2024-02-20 22:00:00,2024-02-22 22:00:00,
+CMP-00089,App keeps crashing when I try to login,Technical Problems,Medium,Open,,2024-08-06 10:00:00,2024-08-08 10:00:00,
+CMP-00090,Cannot login to my account,Account Issues,High,Resolved,Agent_A,2024-10-27 17:00:00,2024-10-28 17:00:00,2024-10-28 15:00:00
+CMP-00091,Defective headphones received in last order,Product Defects,High,In Progress,Agent_D,2024-03-20 21:00:00,2024-03-21 21:00:00,
+CMP-00092,Service outage in my area since last week,Service Disruption,High,Resolved,Agent_A,2024-11-07 21:00:00,2024-11-08 21:00:00,2024-11-10 08:00:00
+CMP-00093,Cannot login to my account,Account Issues,Medium,Open,,2024-11-20 00:00:00,2024-11-22 00:00:00,
+CMP-00094,Defective keyboard received in last order,Product Defects,High,Escalated,Agent_B,2024-01-27 04:00:00,2024-01-28 04:00:00,
+CMP-00095,App keeps crashing when I try to download,Technical Problems,Medium,Assigned,Agent_B,2024-06-25 13:00:00,2024-06-27 13:00:00,
+CMP-00096,Order #25726 delayed by 2 days,Delivery Delays,Low,Assigned,Agent_D,2025-01-27 04:00:00,2025-01-30 04:00:00,
+CMP-00097,Order #70260 delayed by 3 days,Delivery Delays,High,Pending Customer Response,Agent_F,2024-02-06 12:00:00,2024-02-07 12:00:00,
+CMP-00098,Cannot login to my account,Account Issues,High,Assigned,Agent_G,2024-01-11 10:00:00,2024-01-12 10:00:00,
+CMP-00099,App keeps crashing when I try to login,Technical Problems,Medium,In Progress,Agent_E,2025-01-16 10:00:00,2025-01-18 10:00:00,
+CMP-00100,Poor response from support team,Customer Service,Medium,Resolved,Agent_C,2024-04-30 03:00:00,2024-05-02 03:00:00,2024-04-30 16:00:00
+CMP-00101,Poor response from support team,Customer Service,Medium,Escalated,Agent_F,2024-11-17 10:00:00,2024-11-19 10:00:00,
+CMP-00102,Defective router received in last order,Product Defects,Medium,In Progress,Agent_H,2024-01-20 01:00:00,2024-01-22 01:00:00,
+CMP-00103,App keeps crashing when I try to download,Technical Problems,Medium,Escalated,Agent_A,2024-08-18 18:00:00,2024-08-20 18:00:00,
+CMP-00104,Poor response from support team,Customer Service,Medium,Resolved,Agent_C,2024-01-21 07:00:00,2024-01-23 07:00:00,2024-01-25 16:00:00
+CMP-00105,Defective laptop received in last order,Product Defects,High,Open,,2024-11-19 20:00:00,2024-11-20 20:00:00,
+CMP-00106,Cannot login to my account,Account Issues,Critical,Escalated,Agent_C,2024-06-19 02:00:00,2024-06-19 06:00:00,
+CMP-00107,Incorrect charge of ₹9124 on my invoice,BILLING ISSUES,Medium,In Progress,Agent_F,2024-03-06 21:00:00,2024-03-08 21:00:00,
+CMP-00108,Defective router received in last order,Product Defects,Critical,In Progress,Agent_D,2024-03-11 04:00:00,2024-03-11 08:00:00,
+CMP-00109,Cannot login to my account,Account Issues,Medium,Resolved,Agent_C,2024-11-01 12:00:00,2024-11-03 12:00:00,2024-11-02 00:00:00
+CMP-00110,Defective router received in last order,Product Defects,High,Resolved,Agent_D,2024-09-30 07:00:00,2024-10-01 07:00:00,2024-09-30 23:00:00
+CMP-00111,App keeps crashing when I try to download,Technical Problems,Critical,Resolved,Agent_C,2024-05-08 01:00:00,2024-05-08 05:00:00,2024-05-08 04:00:00
+CMP-00112,Order #61964 delayed by 10 days,Delivery Delays,Low,In Progress,Agent_D,2024-08-18 11:00:00,2024-08-21 11:00:00,
+CMP-00113,Service outage in my area since last week,Service Disruption,,Closed,Agent_F,2024-03-15 04:00:00,2024-03-18 04:00:00,2024-03-17 17:00:00
+CMP-00114,Service outage in my area since last week,Service Disruption,Medium,Resolved,Agent_G,2024-02-26 09:00:00,2024-02-28 09:00:00,2024-02-26 17:00:00
+CMP-00115,App keeps crashing when I try to upload,Technical Problems,Medium,Open,,2024-09-20 18:00:00,2024-09-22 18:00:00,
+CMP-00116,Cannot login to my account,Account Issues,High,Pending Customer Response,Agent_F,2024-02-04 16:00:00,2024-02-05 16:00:00,
+CMP-00117,Defective laptop received in last order,Product Defects,Medium,Open,,2024-02-04 11:00:00,2024-02-06 11:00:00,
+CMP-00118,Service outage in my area since last week,Service Disruption,High,Resolved,Agent_H,2024-11-19 05:00:00,2024-11-20 05:00:00,2024-11-20 14:00:00
+CMP-00119,Defective router received in last order,Product Defects,Medium,Closed,Agent_H,2024-05-09 01:00:00,2024-05-11 01:00:00,2024-05-12 02:00:00
+CMP-00120,App keeps crashing when I try to upload,Technical Problems,High,Resolved,Agent_G,2024-06-22 05:00:00,2024-06-23 05:00:00,2024-06-22 21:00:00
+CMP-00121,Service outage in my area since last week,Service Disruption,Medium,In Progress,Agent_B,2024-06-16 21:00:00,2024-06-18 21:00:00,
+CMP-00122,Incorrect charge of ₹1729 on my invoice,Billing Issues,High,Closed,Agent_G,2024-05-20 20:00:00,2024-05-21 20:00:00,2024-05-22 04:00:00
+CMP-00123,Poor response from support team,Customer Service,High,Resolved,Agent_A,2024-03-05 02:00:00,2024-03-06 02:00:00,2024-03-05 23:00:00
+CMP-00124,Defective monitor received in last order,Product Defects,Medium,Open,,2024-03-11 16:00:00,2024-03-13 16:00:00,
+CMP-00125,App keeps crashing when I try to login,Technical Problems,Medium,Closed,Agent_B,2024-05-14 08:00:00,2024-05-16 08:00:00,2024-05-17 12:00:00
+CMP-00126,App keeps crashing when I try to upload,Technical Problems,Critical,Resolved,Agent_F,2024-12-07 11:00:00,2024-12-07 15:00:00,2024-12-10 14:00:00
+CMP-00127,Defective monitor received in last order,Product Defects,Medium,Open,,2024-04-12 04:00:00,2024-04-14 04:00:00,
+CMP-00128,Service outage in my area since last week,Service Disruption,High,Open,,2024-06-07 12:00:00,2024-06-08 12:00:00,
+CMP-00129,Incorrect charge of ₹2614 on my invoice,Billing Issues,Medium,Resolved,Agent_F,2024-03-06 17:00:00,2024-03-08 17:00:00,2024-03-07 05:00:00
+CMP-00130,Defective keyboard received in last order,Product Defects,Critical,Assigned,Agent_E,2024-02-10 08:00:00,2024-02-10 12:00:00,
+CMP-00131,Service outage in my area since last week,Service Disruption,Medium,Escalated,Agent_C,2024-12-03 19:00:00,2024-12-05 19:00:00,
+CMP-00132,Cannot login to my account,Account Issues,Medium,Escalated,Agent_A,2024-09-11 20:00:00,2024-09-13 20:00:00,
+CMP-00133,Incorrect charge of ₹3842 on my invoice,Billing Issues,High,Assigned,Agent_G,2024-09-04 14:00:00,2024-09-05 14:00:00,
+CMP-00134,Defective laptop received in last order,Product Defects,Critical,Open,,2024-07-08 16:00:00,2024-07-08 20:00:00,
+CMP-00135,Incorrect charge of ₹5864 on my invoice,Billing Issues,Medium,In Progress,Agent_G,2024-05-07 05:00:00,2024-05-09 05:00:00,
+CMP-00136,Defective headphones received in last order,Product Defects,Medium,Open,,2024-07-20 16:00:00,2024-07-22 16:00:00,
+CMP-00137,Poor response from support team,Customer Service,High,In Progress,Agent_A,2024-02-25 13:00:00,2024-02-26 13:00:00,
+CMP-00138,Defective router received in last order,Product Defects,Medium,Open,,2024-09-15 14:00:00,2024-09-17 14:00:00,
+CMP-00139,Poor response from support team,Customer Service,Critical,Escalated,Agent_F,2025-01-21 04:00:00,2025-01-21 08:00:00,
+CMP-00140,Poor response from support team,Customer Service,Medium,In Progress,Agent_C,2024-06-16 19:00:00,2024-06-18 19:00:00,
+CMP-00141,Order #50327 delayed by 14 days,Delivery Delays,Medium,Resolved,Agent_E,2024-08-31 00:00:00,2024-09-02 00:00:00,2024-09-01 20:00:00
+CMP-00142,Order #29369 delayed by 15 days,Delivery Delays,Medium,Closed,Agent_D,2025-01-04 01:00:00,2025-01-06 01:00:00,2025-01-04 12:00:00
+CMP-00143,Incorrect charge of ₹3840 on my invoice,Billing Issues,Low,In Progress,Agent_G,2024-03-18 13:00:00,2024-03-21 13:00:00,
+CMP-00144,Service outage in my area since last week,Service Disruption,Medium,Escalated,Agent_H,2024-09-26 12:00:00,2024-09-28 12:00:00,
+CMP-00145,Cannot login to my account,Account Issues,High,Resolved,Agent_H,2024-04-08 07:00:00,2024-04-09 07:00:00,2024-04-08 17:00:00
+CMP-00146,Poor response from support team,Customer Service,High,Assigned,Agent_G,2024-07-21 11:00:00,2024-07-22 11:00:00,
+CMP-00147,Cannot login to my account,Account Issues,Medium,Assigned,Agent_E,2024-10-14 22:00:00,2024-10-16 22:00:00,
+CMP-00148,Order #10679 delayed by 10 days,Delivery Delays,Medium,Assigned,Agent_B,2024-07-30 10:00:00,2024-08-01 10:00:00,
+CMP-00149,App keeps crashing when I try to download,Technical Problems,Medium,Assigned,Agent_E,2024-06-13 09:00:00,2024-06-15 09:00:00,
+CMP-00150,Service outage in my area since last week,Service Disruption,Medium,Resolved,Agent_A,2024-07-22 15:00:00,2024-07-24 15:00:00,2024-07-24 15:00:00
+CMP-00151,App keeps crashing when I try to login,Technical Problems,Critical,Pending Customer Response,Agent_H,2024-03-09 16:00:00,2024-03-09 20:00:00,
+CMP-00152,Service outage in my area since last week,Service Disruption,Low,In Progress,Agent_E,2024-10-17 21:00:00,2024-10-20 21:00:00,
+CMP-00153,Cannot login to my account,Account Issues,Low,Closed,Agent_H,2024-06-14 07:00:00,2024-06-17 07:00:00,2024-06-16 09:00:00
+CMP-00154,Defective headphones received in last order,Product Defects,High,Open,,2024-03-01 14:00:00,2024-03-02 14:00:00,
+CMP-00155,Cannot login to my account,Account Issues,Low,Closed,Agent_E,2024-07-07 19:00:00,2024-07-10 19:00:00,2024-07-08 13:00:00
+CMP-00156,Order #57419 delayed by 3 days,Delivery Delays,High,Resolved,Agent_D,2024-12-14 19:00:00,2024-12-15 19:00:00,2024-12-16 06:00:00
+CMP-00157,Order #86434 delayed by 9 days,Delivery Delays,Medium,Pending Customer Response,Agent_C,2024-06-16 16:00:00,2024-06-18 16:00:00,
+CMP-00158,App keeps crashing when I try to share,TECHNICAL PROBLEMS,Low,In Progress,Agent_A,2024-10-13 14:00:00,2024-10-16 14:00:00,
+CMP-00159,App keeps crashing when I try to upload,Technical Problems,Medium,Open,,2024-01-31 02:00:00,2024-02-02 02:00:00,
+CMP-00160,Cannot login to my account,Account Issues,Critical,In Progress,Agent_G,2024-08-17 12:00:00,2024-08-17 16:00:00,
+CMP-00161,App keeps crashing when I try to download,Technical Problems,Medium,Resolved,Agent_D,2024-01-02 00:00:00,2024-01-04 00:00:00,2024-01-06 12:00:00
+CMP-00162,Service outage in my area since last week,SERVICE DISRUPTION,Critical,Resolved,Agent_B,2024-01-17 21:00:00,2024-01-18 01:00:00,2024-01-17 22:00:00
+CMP-00163,Incorrect charge of ₹9343 on my invoice,Billing Issues,Medium,Open,,2024-08-12 07:00:00,2024-08-14 07:00:00,
+CMP-00164,Order #64206 delayed by 6 days,Delivery Delays,Medium,Escalated,Agent_F,2024-05-01 09:00:00,2024-05-03 09:00:00,
+CMP-00165,Cannot login to my account,Account Issues,Critical,Escalated,Agent_G,2024-10-11 15:00:00,2024-10-11 19:00:00,
+CMP-00166,Service outage in my area since last week,Service Disruption,High,In Progress,Agent_D,2024-06-02 22:00:00,2024-06-03 22:00:00,
+CMP-00167,Service outage in my area since last week,Service Disruption,Medium,In Progress,Agent_B,2024-08-18 11:00:00,2024-08-20 11:00:00,
+CMP-00168,Incorrect charge of ₹5467 on my invoice,Billing Issues,Low,Resolved,Agent_D,2024-09-02 06:00:00,2024-09-05 06:00:00,2024-09-07 01:00:00
+CMP-00169,Service outage in my area since last week,Service Disruption,High,Resolved,Agent_G,2024-05-02 17:00:00,2024-05-03 17:00:00,2024-05-03 03:00:00
+CMP-00170,App keeps crashing when I try to pay,Technical Problems,Low,Closed,Agent_H,2025-01-24 10:00:00,2025-01-27 10:00:00,2025-01-29 10:00:00
+CMP-00171,Order #42208 delayed by 9 days,Delivery Delays,Medium,In Progress,Agent_C,2024-04-10 10:00:00,2024-04-12 10:00:00,
+CMP-00172,Poor response from support team,Customer Service,High,Closed,Agent_H,2024-08-23 05:00:00,2024-08-24 05:00:00,2024-08-26 03:00:00
+CMP-00173,Incorrect charge of ₹2752 on my invoice,Billing Issues,Medium,Resolved,Agent_B,2024-12-08 01:00:00,2024-12-10 01:00:00,2024-12-12 06:00:00
+CMP-00174,Cannot login to my account,ACCOUNT ISSUES,High,Escalated,Agent_H,2024-12-03 15:00:00,2024-12-04 15:00:00,
+CMP-00175,Defective headphones received in last order,Product Defects,Low,Resolved,Agent_G,2024-04-01 03:00:00,2024-04-04 03:00:00,2024-04-06 23:00:00
+CMP-00176,Incorrect charge of ₹5414 on my invoice,Billing Issues,Medium,In Progress,Agent_D,2024-12-22 07:00:00,2024-12-24 07:00:00,
+CMP-00177,Incorrect charge of ₹5927 on my invoice,Billing Issues,High,Open,,2024-08-10 20:00:00,2024-08-11 20:00:00,
+CMP-00178,Order #96259 delayed by 2 days,Delivery Delays,Medium,,,2024-02-08 21:00:00,2024-02-10 21:00:00,
+CMP-00179,Service outage in my area since last week,Service Disruption,Medium,Resolved,Agent_G,2024-02-09 09:00:00,2024-02-11 09:00:00,2024-02-10 01:00:00
+CMP-00180,Cannot login to my account,Account Issues,Low,Resolved,Agent_F,2024-01-28 03:00:00,2024-01-31 03:00:00,2024-01-28 13:00:00
+CMP-00181,Poor response from support team,Customer Service,Critical,In Progress,Agent_F,2024-10-10 12:00:00,2024-10-10 16:00:00,
+CMP-00182,Cannot login to my account,Account Issues,Low,Assigned,Agent_G,2024-12-30 20:00:00,2025-01-02 20:00:00,
+CMP-00183,Poor response from support team,Customer Service,Medium,Open,,2024-04-05 13:00:00,2024-04-07 13:00:00,
+CMP-00184,Order #83339 delayed by 5 days,Delivery Delays,Medium,In Progress,Agent_G,2024-01-07 09:00:00,2024-01-09 09:00:00,
+CMP-00185,Service outage in my area since last week,Service Disruption,Medium,Assigned,Agent_C,2024-02-02 05:00:00,2024-02-04 05:00:00,
+CMP-00186,Cannot login to my account,Account Issues,High,Escalated,Agent_D,2024-08-22 03:00:00,2024-08-23 03:00:00,
+CMP-00187,App keeps crashing when I try to upload,Technical Problems,Medium,Resolved,Agent_C,2024-06-02 10:00:00,2024-06-04 10:00:00,2024-06-04 07:00:00
+CMP-00188,App keeps crashing when I try to download,Technical Problems,Critical,Resolved,Agent_F,2024-07-11 08:00:00,2024-07-11 12:00:00,2024-07-13 15:00:00
+CMP-00189,Incorrect charge of ₹1633 on my invoice,Billing Issues,Critical,In Progress,Agent_D,2024-08-12 09:00:00,2024-08-12 13:00:00,
+CMP-00190,App keeps crashing when I try to download,TECHNICAL PROBLEMS,High,Open,,2024-11-02 15:00:00,2024-11-03 15:00:00,
+CMP-00191,Poor response from support team,Customer Service,Medium,Escalated,Agent_B,2024-02-25 07:00:00,2024-02-27 07:00:00,
+CMP-00192,Poor response from support team,Customer Service,Medium,Resolved,Agent_B,2024-01-06 03:00:00,2024-01-08 03:00:00,2024-01-07 12:00:00
+CMP-00193,Order #25213 delayed by 15 days,Delivery Delays,High,Assigned,Agent_A,2024-09-04 03:00:00,2024-09-05 03:00:00,
+CMP-00194,App keeps crashing when I try to upload,Technical Problems,High,,Agent_F,2024-08-31 03:00:00,2024-09-01 03:00:00,
+CMP-00195,Defective router received in last order,Product Defects,High,Resolved,Agent_C,2025-01-14 07:00:00,2025-01-15 07:00:00,2025-01-15 01:00:00
+CMP-00196,Cannot login to my account,Account Issues,High,In Progress,Agent_D,2024-08-18 18:00:00,2024-08-19 18:00:00,
+CMP-00197,Order #93769 delayed by 7 days,Delivery Delays,Low,Resolved,Agent_C,2024-07-06 10:00:00,2024-07-09 10:00:00,2024-07-07 01:00:00
+CMP-00198,Defective keyboard received in last order,Product Defects,Medium,In Progress,Agent_C,2024-12-10 22:00:00,2024-12-12 22:00:00,
+CMP-00199,Service outage in my area since last week,Service Disruption,Medium,Open,,2024-07-17 13:00:00,2024-07-19 13:00:00,
+CMP-00200,Service outage in my area since last week,Service Disruption,Medium,In Progress,Agent_C,2024-04-05 10:00:00,2024-04-07 10:00:00,
+CMP-00201,Order #20835 delayed by 11 days,DELIVERY DELAYS,Medium,In Progress,Agent_H,2024-07-31 22:00:00,2024-08-02 22:00:00,
+CMP-00202,Defective keyboard received in last order,Product Defects,Medium,Assigned,Agent_H,2024-10-16 23:00:00,2024-10-18 23:00:00,
+CMP-00203,Defective router received in last order,Product Defects,Medium,Resolved,Agent_H,2024-10-06 06:00:00,2024-10-08 06:00:00,2024-10-08 20:00:00
+CMP-00204,Incorrect charge of ₹7515 on my invoice,Billing Issues,High,Assigned,Agent_F,2024-12-29 19:00:00,2024-12-30 19:00:00,
+CMP-00205,Defective router received in last order,Product Defects,Medium,Escalated,Agent_C,2024-06-14 22:00:00,2024-06-16 22:00:00,
+CMP-00206,Service outage in my area since last week,Service Disruption,Critical,Resolved,Agent_A,2024-05-21 20:00:00,2024-05-22 00:00:00,2024-05-21 22:00:00
+CMP-00207,Cannot login to my account,Account Issues,Medium,In Progress,Agent_H,2024-02-08 20:00:00,2024-02-10 20:00:00,
+CMP-00208,Defective laptop received in last order,Product Defects,Medium,Resolved,Agent_B,2025-01-09 14:00:00,2025-01-11 14:00:00,2025-01-11 11:00:00
+CMP-00209,Defective laptop received in last order,Product Defects,High,In Progress,Agent_C,2024-10-16 15:00:00,2024-10-17 15:00:00,
+CMP-00210,Poor response from support team,Customer Service,Low,In Progress,Agent_G,2024-04-13 22:00:00,2024-04-16 22:00:00,
+CMP-00211,Cannot login to my account,Account Issues,Low,In Progress,Agent_E,2025-01-06 22:00:00,2025-01-09 22:00:00,
+CMP-00212,Order #72613 delayed by 3 days,Delivery Delays,High,Open,,2024-12-22 10:00:00,2024-12-23 10:00:00,
+CMP-00213,Incorrect charge of ₹2840 on my invoice,Billing Issues,Medium,Resolved,Agent_C,2024-07-14 04:00:00,2024-07-16 04:00:00,2024-07-16 00:00:00
+CMP-00214,Service outage in my area since last week,Service Disruption,High,Assigned,Agent_G,2024-11-11 21:00:00,2024-11-12 21:00:00,
+CMP-00215,App keeps crashing when I try to download,Technical Problems,Medium,Open,,2024-05-21 20:00:00,2024-05-23 20:00:00,
+CMP-00216,Incorrect charge of ₹6918 on my invoice,Billing Issues,High,Resolved,Agent_E,2024-04-15 16:00:00,2024-04-16 16:00:00,2024-04-15 23:00:00
+CMP-00217,Incorrect charge of ₹7395 on my invoice,Billing Issues,Medium,Closed,Agent_F,2024-06-11 04:00:00,2024-06-13 04:00:00,2024-06-12 17:00:00
+CMP-00218,Incorrect charge of ₹1490 on my invoice,Billing Issues,Medium,Open,,2024-04-20 01:00:00,2024-04-22 01:00:00,
+CMP-00219,App keeps crashing when I try to download,Technical Problems,Low,Pending Customer Response,Agent_C,2024-05-22 02:00:00,2024-05-25 02:00:00,
+CMP-00220,Poor response from support team,Customer Service,High,Resolved,Agent_B,2024-06-07 22:00:00,2024-06-08 22:00:00,2024-06-08 06:00:00
+CMP-00221,Cannot login to my account,Account Issues,High,Assigned,Agent_A,2024-12-28 04:00:00,2024-12-29 04:00:00,
+CMP-00222,Defective monitor received in last order,Product Defects,Low,Resolved,Agent_E,2025-01-10 03:00:00,2025-01-13 03:00:00,2025-01-13 07:00:00
+CMP-00223,App keeps crashing when I try to upload,Technical Problems,Medium,In Progress,Agent_H,2024-10-17 05:00:00,2024-10-19 05:00:00,
+CMP-00224,Incorrect charge of ₹3432 on my invoice,Billing Issues,Low,Resolved,Agent_D,2024-01-24 15:00:00,2024-01-27 15:00:00,2024-01-25 11:00:00
+CMP-00225,Defective laptop received in last order,Product Defects,Medium,Open,,2024-07-09 03:00:00,2024-07-11 03:00:00,
+CMP-00226,App keeps crashing when I try to upload,Technical Problems,High,Resolved,Agent_E,2024-06-16 02:00:00,2024-06-17 02:00:00,2024-06-16 03:00:00
+CMP-00227,Order #13133 delayed by 5 days,Delivery Delays,Critical,Closed,Agent_D,2025-01-10 17:00:00,2025-01-10 21:00:00,2025-01-12 05:00:00
+CMP-00228,Incorrect charge of ₹5538 on my invoice,Billing Issues,Critical,Open,,2024-12-02 12:00:00,2024-12-02 16:00:00,
+CMP-00229,Service outage in my area since last week,Service Disruption,High,Open,,2024-04-28 16:00:00,2024-04-29 16:00:00,
+CMP-00230,Incorrect charge of ₹4379 on my invoice,Billing Issues,Medium,Open,,2024-12-05 04:00:00,2024-12-07 04:00:00,
+CMP-00231,App keeps crashing when I try to pay,Technical Problems,Medium,Open,,2024-04-13 04:00:00,2024-04-15 04:00:00,
+CMP-00232,Poor response from support team,Customer Service,Medium,In Progress,Agent_E,2024-03-02 02:00:00,2024-03-04 02:00:00,
+CMP-00233,Service outage in my area since last week,Service Disruption,Critical,In Progress,Agent_A,2024-12-12 09:00:00,2024-12-12 13:00:00,
+CMP-00234,App keeps crashing when I try to share,Technical Problems,Low,Resolved,Agent_B,2024-01-07 01:00:00,2024-01-10 01:00:00,2024-01-11 06:00:00
+CMP-00235,Defective headphones received in last order,Product Defects,Critical,Open,,2024-02-03 06:00:00,2024-02-03 10:00:00,
+CMP-00236,Order #46042 delayed by 6 days,Delivery Delays,Medium,Resolved,Agent_H,2024-01-16 12:00:00,2024-01-18 12:00:00,2024-01-19 11:00:00
+CMP-00237,Order #60202 delayed by 4 days,Delivery Delays,Medium,Assigned,Agent_G,2024-10-08 15:00:00,2024-10-10 15:00:00,
+CMP-00238,Service outage in my area since last week,Service Disruption,High,Resolved,Agent_A,2024-07-14 22:00:00,2024-07-15 22:00:00,2024-07-15 16:00:00
+CMP-00239,Service outage in my area since last week,Service Disruption,Low,Resolved,Agent_E,2024-01-30 15:00:00,2024-02-02 15:00:00,2024-01-31 21:00:00
+CMP-00240,Incorrect charge of ₹5710 on my invoice,Billing Issues,High,Closed,Agent_G,2024-06-30 05:00:00,2024-07-01 05:00:00,2024-07-01 00:00:00
+CMP-00241,Order #88861 delayed by 5 days,DELIVERY DELAYS,Critical,Resolved,Agent_H,2024-10-04 09:00:00,2024-10-04 13:00:00,2024-10-04 10:00:00
+CMP-00242,Order #29360 delayed by 11 days,Delivery Delays,Medium,Open,,2025-01-02 05:00:00,2025-01-04 05:00:00,
+CMP-00243,Order #27884 delayed by 4 days,Delivery Delays,High,Closed,Agent_F,2024-12-26 21:00:00,2024-12-27 21:00:00,2024-12-27 01:00:00
+CMP-00244,App keeps crashing when I try to upload,Technical Problems,,Assigned,Agent_F,2024-04-24 21:00:00,2024-04-25 21:00:00,
+CMP-00245,Order #75035 delayed by 4 days,Delivery Delays,Medium,Closed,Agent_A,2024-04-03 19:00:00,2024-04-05 19:00:00,2024-04-05 11:00:00
+CMP-00246,Defective laptop received in last order,Product Defects,Low,Resolved,Agent_B,2024-12-28 21:00:00,2024-12-31 21:00:00,2024-12-30 16:00:00
+CMP-00247,Cannot login to my account,Account Issues,Low,In Progress,Agent_G,2024-03-26 13:00:00,2024-03-29 13:00:00,
+CMP-00248,Cannot login to my account,Account Issues,High,Assigned,Agent_H,2024-02-07 01:00:00,2024-02-08 01:00:00,
+CMP-00249,Cannot login to my account,Account Issues,Low,Closed,Agent_B,2024-06-22 19:00:00,2024-06-25 19:00:00,2024-06-28 09:00:00
+CMP-00250,Service outage in my area since last week,Service Disruption,Medium,Escalated,Agent_E,2024-12-04 09:00:00,2024-12-06 09:00:00,
+CMP-00001,Cannot login to my account,ACCOUNT ISSUES,Low,Resolved,Agent_D,2024-04-24 04:00:00,2024-04-27 04:00:00,2024-04-30 19:00:00
+CMP-00002,Incorrect charge of ₹3115 on my invoice,Billing Issues,Medium,Resolved,Agent_G,2024-04-22 14:00:00,2024-04-24 14:00:00,2024-04-22 15:00:00
+CMP-00003,App keeps crashing when I try to download,Technical Problems,Low,Resolved,Agent_E,2024-01-23 23:00:00,2024-01-26 23:00:00,2024-01-24 15:00:00
+CMP-00004,Service outage in my area since last week,Service Disruption,High,Open,,2024-04-26 09:00:00,2024-04-27 09:00:00,
+CMP-00005,Defective keyboard received in last order,Product Defects,Medium,Assigned,Agent_B,2024-11-07 20:00:00,2024-11-09 20:00:00,
+CMP-00006,Order #18675 delayed by 5 days,Delivery Delays,Medium,In Progress,Agent_A,2024-04-27 01:00:00,2024-04-29 01:00:00,
+CMP-00007,Service outage in my area since last week,Service Disruption,High,In Progress,Agent_H,2024-03-14 08:00:00,2024-03-15 08:00:00,
+CMP-00008,Defective monitor received in last order,Product Defects,Medium,Closed,Agent_H,2024-02-16 01:00:00,2024-02-18 01:00:00,2024-02-18 21:00:00
+CMP-00009,Order #24621 delayed by 6 days,Delivery Delays,High,Open,,2025-01-04 03:00:00,2025-01-05 03:00:00,
+CMP-00010,Cannot login to my account,Account Issues,Medium,Pending Customer Response,Agent_C,2024-09-16 03:00:00,2024-09-18 03:00:00,

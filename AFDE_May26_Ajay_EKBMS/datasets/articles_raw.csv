@@ -1,0 +1,126 @@
+title,category,tags,author,status,view_count,created_at
+Employee onboarding handbook — v3,IT Support,ml,Author_I,Draft,0,2024-04-29 16:00:00
+Health insurance enrollment — v5,Training Materials,sql|linux|python,Author_C,Approved,3,2025-01-25 10:00:00
+Python coding standards — v3,Finance,data,Author_H,Approved,4,2024-11-17 19:00:00
+Annual performance review process,Operations,sql|security,Author_B,Rejected,17,2024-07-05 05:00:00
+Code review guidelines,Operations,kubernetes,Author_C,Approved,2,2024-11-23 22:00:00
+Network firewall configuration,HR Policies,sql,Author_F,Approved,146,2025-01-02 10:00:00
+Vendor management workflow — v4,IT Support,data|docker,Author_I,Pending Approval,18,2024-07-04 07:00:00
+Docker container best practices,HR Policies,react,Author_C,Approved,4,2024-11-01 14:00:00
+Health insurance enrollment,HR Policies,ml,Author_I,Approved,8,2024-08-20 00:00:00
+HR leave policy 2024,IT Support,linux,Author_E,Approved,5,2025-01-25 05:00:00
+React component library guide,Finance,fastapi,Author_F,Rejected,3,2024-10-17 02:00:00
+Vendor management workflow,Finance,ml|aws,Author_I,Pending Approval,84,2024-10-03 23:00:00
+AWS cost optimization tips — v3,Training Materials,fastapi|devops|linux|networking,Author_F,Draft,5,2024-02-06 22:00:00
+CI/CD pipeline architecture — v1,Infrastructure,security|ml,Author_H,Pending Approval,149,2024-10-22 15:00:00
+Vendor management workflow,IT Support,onboarding|policy|linux|aws,Author_A,Approved,6,2024-02-25 07:00:00
+Health insurance enrollment — v4,IT Support,linux|fastapi,Author_H,Approved,8,2024-10-03 00:00:00
+CI/CD pipeline architecture — v4,Training Materials,networking|python|react|policy,Author_A,Archived,30,2024-08-04 22:00:00
+Health insurance enrollment,Training Materials,devops|python|kubernetes,Author_I,Draft,6,2024-09-14 16:00:00
+React component library guide — v2,HR Policies,policy|fastapi,Author_J,Pending Approval,0,2024-12-02 18:00:00
+Network firewall configuration,IT Support,devops|security|policy,Author_C,Approved,70,2024-02-07 00:00:00
+Office expense reimbursement,HR Policies,react|onboarding|fastapi,Author_D,Approved,19,2024-06-03 19:00:00
+React component library guide — v5,Infrastructure,networking,Author_C,Pending Approval,1,2024-05-24 19:00:00
+Network firewall configuration — v3,Finance,fastapi,Author_G,Approved,5,2024-11-22 08:00:00
+Database backup strategy,Training Materials,fastapi,Author_C,Approved,3,2024-03-06 01:00:00
+Guide to password manager rollout,IT Support,onboarding,Author_I,Rejected,4,2024-05-01 05:00:00
+Disaster recovery procedures,HR Policies,sql|policy|networking,Author_D,Pending Approval,0,2024-08-28 07:00:00
+Database backup strategy — v2,IT SUPPORT,policy|onboarding,Author_E,Rejected,16,2024-12-13 17:00:00
+Setting up VPN for remote work — v3,IT Support,python|fastapi|kubernetes,Author_G,Approved,107,2024-02-29 12:00:00
+Code review guidelines — v4,HR Policies,onboarding|policy,Author_B,Rejected,24,2024-03-04 23:00:00
+React component library guide — v4,Infrastructure,docker|react|devops,Author_G,Approved,125,2024-11-11 18:00:00
+Health insurance enrollment,Infrastructure,sql|kubernetes|linux|ml,Author_F,Approved,26,2025-01-11 05:00:00
+AWS cost optimization tips,Operations,linux,Author_D,Approved,2,2024-01-24 07:00:00
+Security incident response plan,HR Policies,data|networking,Author_G,Approved,9,2025-01-19 03:00:00
+CI/CD pipeline architecture — v5,Training Materials,networking|linux,Author_B,Approved,97,2024-10-31 10:00:00
+Database backup strategy,Operations,linux|docker|aws|react,Author_H,Approved,25,2024-09-23 15:00:00
+HR leave policy 2024 — v3,IT Support,networking|docker|fastapi,Author_C,Pending Approval,27,2024-02-02 13:00:00
+Health insurance enrollment — v1,IT Support,networking|sql|kubernetes|data,Author_A,Rejected,0,2024-06-29 09:00:00
+Kubernetes deployment patterns,Operations,aws|devops,Author_E,Approved,17,2024-07-26 23:00:00
+Database backup strategy,Finance,kubernetes|networking|ml|python,Author_B,Approved,0,2024-07-13 10:00:00
+ Network firewall configuration — v4,Infrastructure,security|linux|fastapi|aws,Author_A,Approved,16,2025-02-03 20:00:00
+Setting up VPN for remote work,IT Support,devops|react,Author_H,Approved,11,2025-01-27 11:00:00
+Security incident response plan,Operations,security|fastapi,Author_J,Draft,116,2024-07-11 12:00:00
+Code review guidelines — v2,HR Policies,linux|ml|kubernetes,Author_B,Approved,5,2024-08-07 21:00:00
+React component library guide,HR Policies,fastapi|policy|onboarding|ml,Author_H,Approved,10,2024-11-29 08:00:00
+Health insurance enrollment,Training Materials,onboarding|linux|devops,Author_B,Pending Approval,12,2024-11-08 21:00:00
+Setting up VPN for remote work — v3,IT Support,sql|security|onboarding,Author_E,Rejected,22,2024-04-07 02:00:00
+Kubernetes deployment patterns — v2,Operations,aws|sql|python|fastapi,Author_E,Pending Approval,14,2024-08-30 17:00:00
+Kubernetes deployment patterns,Finance,security|networking|linux|devops,Author_B,Approved,8,2025-01-25 22:00:00
+ Code review guidelines,Infrastructure,fastapi|linux|devops,Author_E,Pending Approval,14,2024-03-05 08:00:00
+Guide to password manager rollout,Operations,fastapi|linux|python|kubernetes,Author_E,Approved,53,2024-05-09 15:00:00
+Quarterly tax filing checklist — v1,Finance,react,Author_C,Approved,3,2025-01-26 13:00:00
+Security incident response plan — v5,Training Materials,security|linux|kubernetes|policy,Author_E,Approved,0,2025-01-25 06:00:00
+HR leave policy 2024,IT Support,react,Author_A,Approved,0,2024-05-27 22:00:00
+Database backup strategy — v2,Infrastructure,policy|fastapi,Author_I,Pending Approval,2,2024-01-31 05:00:00
+Security incident response plan,Finance,fastapi|aws|data|security,Author_G,Rejected,22,2024-11-02 01:00:00
+Network firewall configuration,HR Policies,sql,Author_E,Approved,20,2024-05-22 05:00:00
+Kubernetes deployment patterns,Training Materials,onboarding|policy|networking|sql,Author_B,Rejected,18,2024-12-05 12:00:00
+Health insurance enrollment — v1,Infrastructure,sql,Author_G,Rejected,26,2024-07-30 01:00:00
+Annual performance review process,Training Materials,devops,Author_E,Approved,19,2024-03-03 00:00:00
+Security incident response plan,Operations,docker,Author_G,Draft,19,2024-03-19 15:00:00
+AWS cost optimization tips,Infrastructure,aws|devops|networking|docker,Author_C,Approved,125,2024-02-05 08:00:00
+Kubernetes deployment patterns — v5,Infrastructure,data|security|kubernetes,Author_J,Archived,9,2024-06-25 10:00:00
+Health insurance enrollment — v3,IT Support,kubernetes|policy,Author_D,Rejected,6,2024-12-27 12:00:00
+Docker container best practices — v1,IT Support,linux|fastapi|aws,Author_B,Approved,4,2024-12-01 04:00:00
+HR leave policy 2024 — v4,Operations,linux|ml|docker,Author_G,Archived,22,2024-04-30 20:00:00
+AWS cost optimization tips,Operations,sql,Author_B,Approved,3,2024-01-29 09:00:00
+Kubernetes deployment patterns — v5,Training Materials,react|networking,Author_B,Approved,4,2024-10-25 04:00:00
+HR leave policy 2024 — v1,Training Materials,fastapi|aws,Author_F,Archived,25,2024-08-21 09:00:00
+Python coding standards,HR Policies,kubernetes|security|data,Author_E,Draft,13,2024-12-17 23:00:00
+Security incident response plan,Infrastructure,kubernetes|sql,Author_F,Pending Approval,24,2025-01-04 21:00:00
+Docker container best practices,Operations,sql|aws|python,Author_J,Approved,2,2025-01-17 13:00:00
+Docker container best practices,Infrastructure,linux|react|security,Author_H,Archived,3,2024-02-28 14:00:00
+Docker container best practices,IT Support,linux|sql|docker|onboarding,Author_B,Approved,1,2024-07-07 21:00:00
+HR leave policy 2024,Operations,ml,Author_D,Approved,71,2024-04-23 20:00:00
+Database backup strategy,Infrastructure,react,Author_A,Rejected,0,2024-10-02 04:00:00
+Annual performance review process,Operations,kubernetes|data|linux|react,Author_G,Approved,82,2024-05-23 01:00:00
+Code review guidelines — v2,Infrastructure,docker|ml|onboarding,Author_A,Approved,138,2024-02-16 21:00:00
+Security incident response plan,HR Policies,react|sql,Author_J,Pending Approval,5,2024-04-29 10:00:00
+Security incident response plan — v2,IT Support,fastapi|ml,Author_A,Draft,3,2024-06-14 00:00:00
+ Guide to password manager rollout — v4,Finance,aws,Author_H,Approved,23,2024-04-23 19:00:00
+React component library guide — v1,HR Policies,policy|ml|fastapi|aws,Author_H,Draft,1,2024-03-05 08:00:00
+Office expense reimbursement,Infrastructure,aws|docker|kubernetes,Author_G,Draft,113,2024-10-09 23:00:00
+Kubernetes deployment patterns — v2,Training Materials,policy|networking|data|fastapi,Author_F,Approved,16,2024-08-30 02:00:00
+Quarterly tax filing checklist — v1,Operations,docker|python,Author_J,Archived,5,2024-06-30 21:00:00
+Kubernetes deployment patterns,Operations,kubernetes|security|onboarding,Author_B,Approved,9,2024-02-25 11:00:00
+ Annual performance review process — v3,Finance,linux|docker|sql|kubernetes,Author_J,Approved,107,2024-12-21 08:00:00
+HR leave policy 2024,Infrastructure,python|react|linux,Author_J,Approved,9,2024-01-16 02:00:00
+Code review guidelines — v4,Infrastructure,data|onboarding|sql,Author_J,Approved,9,2024-01-26 21:00:00
+Database backup strategy,Training Materials,security|devops|sql|docker,Author_B,Approved,14,2024-09-06 16:00:00
+Guide to password manager rollout — v5,HR POLICIES,devops|sql|react,Author_E,Pending Approval,5,2024-03-30 04:00:00
+CI/CD pipeline architecture,Operations,policy,Author_A,Approved,4,2024-08-07 18:00:00
+Kubernetes deployment patterns — v4,HR Policies,sql|kubernetes,Author_H,Approved,85,2024-05-04 13:00:00
+React component library guide — v3,Operations,sql|react|fastapi,Author_I,Approved,54,2024-06-27 11:00:00
+Docker container best practices — v2,Infrastructure,sql|networking,Author_B,Pending Approval,19,2024-10-23 14:00:00
+Office expense reimbursement,Finance,react|aws|fastapi,Author_H,Approved,30,2024-06-29 16:00:00
+Database backup strategy — v1,Infrastructure,ml,Author_B,Approved,17,2025-01-13 01:00:00
+Office expense reimbursement,Infrastructure,python|aws,Author_B,Approved,27,2024-03-29 01:00:00
+Database backup strategy,Finance,onboarding|networking,Author_E,Approved,0,2024-11-19 20:00:00
+Network firewall configuration — v4,Infrastructure,onboarding|fastapi,Author_J,Approved,14,2024-07-19 04:00:00
+Quarterly tax filing checklist — v4,Operations,ml|data,Author_I,Draft,0,2024-06-07 05:00:00
+ Network firewall configuration,Training Materials,react|fastapi,Author_E,Approved,21,2025-01-13 16:00:00
+Network firewall configuration,Finance,react|networking|linux|data,Author_J,Approved,0,2024-07-05 21:00:00
+Database backup strategy,Operations,docker|devops,Author_E,Archived,11,2024-10-19 14:00:00
+AWS cost optimization tips,Finance,linux|devops,Author_J,Draft,6,2024-07-09 17:00:00
+React component library guide,Infrastructure,security|aws,Author_I,Draft,4,2024-08-18 11:00:00
+ Kubernetes deployment patterns — v5,Infrastructure,onboarding,Author_D,Draft,1,2024-03-15 04:00:00
+Vendor management workflow,IT Support,aws|kubernetes|python|fastapi,Author_A,Pending Approval,22,2024-09-27 13:00:00
+ AWS cost optimization tips — v1,HR Policies,fastapi|networking|aws|kubernetes,Author_I,Draft,23,2024-05-29 13:00:00
+ Annual performance review process — v4,IT Support,docker,Author_F,Draft,22,2024-09-16 17:00:00
+ Vendor management workflow — v4,Infrastructure,onboarding,Author_B,Approved,29,2024-06-19 04:00:00
+Health insurance enrollment — v2,Operations,ml|react|sql|linux,Author_B,Approved,4,2024-04-12 01:00:00
+AWS cost optimization tips,Finance,sql,Author_D,Pending Approval,1,2024-07-07 13:00:00
+Database backup strategy,Training Materials,aws|data,Author_H,Approved,0,2024-08-05 02:00:00
+Disaster recovery procedures,Infrastructure,ml|security|linux,Author_H,Approved,10,2024-08-16 01:00:00
+ Annual performance review process,Training Materials,fastapi,Author_G,Approved,48,2024-12-13 14:00:00
+Quarterly tax filing checklist — v3,Infrastructure,kubernetes,Author_C,Approved,16,2024-10-20 04:00:00
+Python coding standards — v3,IT Support,data,Author_C,Approved,4,2024-05-13 22:00:00
+Security incident response plan — v4,IT Support,aws,Author_C,Rejected,7,2024-06-12 21:00:00
+Quarterly tax filing checklist,Infrastructure,data|networking,Author_C,Approved,45,2024-03-12 07:00:00
+Setting up VPN for remote work — v5,Infrastructure,kubernetes|fastapi,Author_B,Approved,21,2024-10-21 02:00:00
+Employee onboarding handbook — v3,IT Support,ml,Author_I,Draft,0,2024-04-29 16:00:00
+Health insurance enrollment — v5,Training Materials,sql|linux|python,Author_C,Approved,3,2025-01-25 10:00:00
+Python coding standards — v3,Finance,data,Author_H,Approved,4,2024-11-17 19:00:00
+Annual performance review process,Operations,sql|security,Author_B,Rejected,17,2024-07-05 05:00:00
+Code review guidelines,Operations,kubernetes,Author_C,Approved,2,2024-11-23 22:00:00
